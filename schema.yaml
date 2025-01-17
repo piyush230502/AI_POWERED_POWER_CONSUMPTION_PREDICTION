@@ -1,0 +1,12 @@
+COLUMNS:
+ Temperature: int
+ Humidity: int
+ Wind_Speed: int
+ general_diffuse_flows: int
+ diffuse_flows: int
+ Zone1: int
+ Zone2: int
+ Zone3: int
+
+TARGET COLUMN:
+ name: Zone1
