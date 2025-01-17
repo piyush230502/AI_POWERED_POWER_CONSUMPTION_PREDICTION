@@ -20,7 +20,7 @@
 Clone the repository
 
 ```bash
-https://github.com/piyush230502/End-to-End-Power-Consumption-Prediction
+[https://github.com/piyush230502/End-to-End-Power-Consumption-Prediction](https://github.com/piyush230502/AI_POWERED_POWER_CONSUMPTION_PREDICTION)
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
